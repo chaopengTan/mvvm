@@ -1,0 +1,4 @@
+include ':mvvm'
+include ':app'
+include ':net'
+rootProject.name = "mvvmAndroid"
